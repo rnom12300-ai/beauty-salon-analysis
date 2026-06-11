@@ -1,5 +1,5 @@
 ## Beauty Salon Data Analysis 💄
-
+![Dashboard](beauty-salon-dashboard.png)
 Power BI dashboard analyzing beauty salon dataset to uncover sales and customer insights.
 
 ### Tools Used
